@@ -29,13 +29,13 @@
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>The Edge - Eduard M</item>
-        <item>The Principles - Eduard M</item>
-        <item>The Pattern - Eduard M</item>
-        <item>The Neutral Network - Eduard M</item>
-        <item>The ParadoxArmy - Eduard M</item>
-        <item>The Crystal - Eduard M</item>
-        <item>The Dark Side - Eduard M</item>
-        <item>The Blueprints - Eduard M</item>
+        <item>The Edge</item>
+        <item>The Principles</item>
+        <item>The Pattern</item>
+        <item>The Neutral Network</item>
+        <item>The ParadoxArmy</item>
+        <item>The Crystal</item>
+        <item>The Dark Side</item>
+        <item>The Blueprints</item>
     </string-array>
 </resources>

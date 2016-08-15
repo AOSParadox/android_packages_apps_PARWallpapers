@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2016 The AOSParadox Project
+     Copyright (C) 2013 The XenonHD
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <string-array name="wallpapers" translatable="false">
+        <item>the_edge</item>
+        <item>the_principles</item>
+        <item>the_pattern</item>
+        <item>the_neutral_network</item>
+        <item>the_paradox_army</item>
+        <item>the_crystal</item>
+        <item>the_dark_side</item>
+        <item>the_blueprints</item>
+    </string-array>
+
+    <string-array name="info" translatable="false">
+        <item>The Edge - Eduard M</item>
+        <item>The Principles - Eduard M</item>
+        <item>The Pattern - Eduard M</item>
+        <item>The Neutral Network - Eduard M</item>
+        <item>The ParadoxArmy - Eduard M</item>
+        <item>The Crystal - Eduard M</item>
+        <item>The Dark Side - Eduard M</item>
+        <item>The Blueprints - Eduard M</item>
+    </string-array>
+</resources>
